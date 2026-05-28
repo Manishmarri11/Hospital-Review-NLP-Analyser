@@ -61,7 +61,6 @@ Top Positive Aspects:
 | keybert | ≥ 0.8.0 |
 | sentence-transformers | ≥ 2.2.2 |
 | transformers | ≥ 4.36.0 |
-| torch | ≥ 2.0.0 |
 
 ## Sentiment Rating Scale
 
